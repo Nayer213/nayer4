@@ -1,0 +1,22 @@
+{
+  "name": "botfivemfc",
+  "version": "0.0.1",
+  "description": "Flying City",
+  "main": "index.js",
+  "dependencies": {
+    "cpu-stats": "^1.0.0",
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.2",
+    "moment": "^2.24.0",
+    "node-gyp": "^6.1.0",
+    "os": "^0.1.1",
+    "superagent": "^5.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nayer#2224",
+  "license": "ISC"
+}
